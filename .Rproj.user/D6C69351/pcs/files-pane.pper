@@ -1,0 +1,9 @@
+{
+    "path" : "~/Taller R/apartamentos",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
